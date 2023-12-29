@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sweethomemaid/static/css/main.cf0ae668.css",
-    "main.js": "/sweethomemaid/static/js/main.f9bfad06.js",
+    "main.js": "/sweethomemaid/static/js/main.6291e041.js",
     "static/js/787.5fbe0f90.chunk.js": "/sweethomemaid/static/js/787.5fbe0f90.chunk.js",
     "index.html": "/sweethomemaid/index.html",
     "main.cf0ae668.css.map": "/sweethomemaid/static/css/main.cf0ae668.css.map",
-    "main.f9bfad06.js.map": "/sweethomemaid/static/js/main.f9bfad06.js.map",
+    "main.6291e041.js.map": "/sweethomemaid/static/js/main.6291e041.js.map",
     "787.5fbe0f90.chunk.js.map": "/sweethomemaid/static/js/787.5fbe0f90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf0ae668.css",
-    "static/js/main.f9bfad06.js"
+    "static/js/main.6291e041.js"
   ]
 }
