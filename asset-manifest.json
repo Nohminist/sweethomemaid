@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/sweethomemaid/static/css/main.f855e6bc.css",
-    "main.js": "/sweethomemaid/static/js/main.235b7b8b.js",
+    "main.css": "/sweethomemaid/static/css/main.cf0ae668.css",
+    "main.js": "/sweethomemaid/static/js/main.f9bfad06.js",
     "static/js/787.5fbe0f90.chunk.js": "/sweethomemaid/static/js/787.5fbe0f90.chunk.js",
-    "static/media/logo.svg": "/sweethomemaid/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sweethomemaid/index.html",
-    "main.f855e6bc.css.map": "/sweethomemaid/static/css/main.f855e6bc.css.map",
-    "main.235b7b8b.js.map": "/sweethomemaid/static/js/main.235b7b8b.js.map",
+    "main.cf0ae668.css.map": "/sweethomemaid/static/css/main.cf0ae668.css.map",
+    "main.f9bfad06.js.map": "/sweethomemaid/static/js/main.f9bfad06.js.map",
     "787.5fbe0f90.chunk.js.map": "/sweethomemaid/static/js/787.5fbe0f90.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.235b7b8b.js"
+    "static/css/main.cf0ae668.css",
+    "static/js/main.f9bfad06.js"
   ]
 }
